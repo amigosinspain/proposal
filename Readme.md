@@ -13,11 +13,11 @@
     Madrid      | July 04 -> July 07 | 4 days
     Galicia/SCQ | July 08 -> July 11 | 4 days
 ## Travel Times & Prices
-    USA       -> Barcelona   🛫 8'-13' $750-1100
+    USA       -> Barcelona   🛫 8'-13' $375-550
     Barcelona -> Madrid      🛫 1'30"  ~€40-€50  | 🚄 4' ~€30-€45 | 🚘 6'14"
     Madrid    -> Galicia     🛫 1'30"  ~€30-€45  | 🚄 3' ~€30-€45 | 🚘 5'17"
     Galicia   -> SCQ                             | 🚞 6'          | 🚘 1'
-    SCQ       -> USA         🛫 8'~13' $750-1100
+    SCQ       -> USA         🛫 8'~13' $375-550
 ## Travel Routes
     
     Scenic Route:
