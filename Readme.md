@@ -37,16 +37,7 @@
     MIA - Ronald, Castiana(?)
 
 ## Rental Car
-![](/assets/minivan7seat.jpg)
-
-    Minivan - Opel Zafira Tourer - 7 seats
-    $93/day x 14 days = $1300/trip
-    $1300/trip x 2 veichles = $2600/trip
-    $2600/trip / 14 people = $185 per person/trip
-        minivan - 4 adults, 3 kids
-        minivan - 7 adults
-
-![](/assets/luxury9seat.png)
+![Luxury Van](/assets/luxury9seat.png)
 
     Luxury Van - Mercades Vito - 9 seats
     $127/day x 14 days = $1740/trip
@@ -55,8 +46,18 @@
         luxury van - 4 Adults 3 kids 2 empty
         luxyry van - 7 Adults 2 empty
 
-    
-    Economy Option - Toyota Yaris - 5 seats
+![Minivan](/assets/minivan7seat.jpg)
+
+    Minivan - Opel Zafira Tourer - 7 seats
+    $93/day x 14 days = $1300/trip
+    $1300/trip x 2 veichles = $2600/trip
+    $2600/trip / 14 people = $185 per person/trip
+        minivan - 4 adults, 3 kids
+        minivan - 7 adults
+
+![Economy](/assets/economy.png)
+
+    Economy - Toyota Yaris - 5 seats
     $54/day x 14 days = $762/trip
     $762/trip x 3 veichles = $2286/trip
     $2286/trip / 14 people = $163 per person/trip
