@@ -18,18 +18,16 @@
     Madrid    -> Galicia     🛫 1'30"  ~€30-€45  | 🚄 3' ~€30-€45 | 🚘 5'17"
     Galicia   -> SCQ                             | 🚞 6'          | 🚘 1'
     SCQ       -> USA         🛫 8'~13' $750-1100
-## Travel Times
+## Travel Routes
     
     Scenic Route:
-    BCN  --🚘 6'00"-->  MAD   🚘 6'00"->  Galicia  🚘 1'00"->  SCQ
+    BCN  🚘 6'00"-->  MAD   🚘 6'00"-->  Galicia  🚘 1'00"-->  SCQ
 
     Faster Scenic: 
-    Barcelona   🚄 3'30"->  Madrid   🚄 3'->  SCQ      🚘 1'->  Galicia
-                 ~€30-€45              ~€30-€45
+    BCN  🚄 3'30"-->  MAD   🚄 3'   -->  SCQ      🚘 1'   -->  Galicia
 
     Fastest: 
-    Barcelona   🛫 1'30"->   Madrid   🛫 1'30"->  Galicia  🚘 1'->  SCQ
-                 ~40-50 €             ~30-45 €
+    BCN  🛫 1'30"-->   MAD  🛫 1'30"-->  Galicia  🚘 1'   -->  SCQ
 ## Amigos
     NYC - Yi, Yusaku, Isaac, Joey, Savannah
     LAX - Andy, Alfie, Sara(?)
